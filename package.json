@@ -1,0 +1,13 @@
+{
+	"author": "Mike Wilcox @clubajax",
+	"name": "EventTree",
+	"main":"EventTree.js",
+	"description": "A simple library for emitting events in a browser or in Node.js.",
+	"version": "0.0.1",
+	"license": "Unlicense",
+    "readmeFilename": "README.md",
+	"repository": {
+        "type": "git",
+        "url": "git://github.com/clubajax/EventTree.git"
+    }
+}
